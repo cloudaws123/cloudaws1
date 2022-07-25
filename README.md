@@ -1,4 +1,1 @@
-# cloudaws1 this is cloud
-aws cloud
-azure cloud
-gcp
+# cloudaws1 this is clou
